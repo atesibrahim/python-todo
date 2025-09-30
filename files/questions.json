@@ -1,0 +1,4 @@
+[{"question_text": "What are dolphins?", "alternatives": ["A type of fish", "Mammals known for their intelligence and playful behavior", "Reptiles that live in water", "Birds that can swim"], "answer": 1},
+ {"question_text": "How do dolphins communicate?", "alternatives": ["Through telepathy", "Using a series of clicks, whistles, and body language", "By changing colors", "By singing songs"], "answer": 1},
+ {"question_text": "What is echolocation?", "alternatives": ["A method dolphins use to navigate and find food by emitting sound waves and listening for echoes", "A way dolphins sleep", "A type of dance dolphins perform", "A method of hunting using vision"], "answer": 0},
+ {"question_text": "Where do dolphins typically live?", "alternatives": ["In deserts", "In oceans and some rivers around the world", "In mountains", "In caves"], "answer": 1}]
